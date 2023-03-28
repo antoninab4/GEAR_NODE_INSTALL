@@ -25,7 +25,7 @@ sudo apt update
 ```
 
 ```
-sudo apt install htop mc curl tar wget jqgit make ncdu jq chrony net-tools iotop nload -y
+sudo apt install htop mc curl tar wget git make ncdu jq chrony net-tools iotop nload -y
 ```
 
 
